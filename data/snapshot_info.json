@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "ROTABORSA",
+    "DUNYA",
+    "BORSAGUNDEM"
+  ],
+  "period": [
+    "2024-01-01",
+    "2026-08-22"
+  ],
+  "timezone": "Europe/Istanbul",
+  "filters": {
+    "template_min_repeats": 10,
+    "min_title_chars": 20,
+    "min_title_words": 4
+  },
+  "row_counts": {
+    "rows_read": 194706,
+    "rows_in_period": 161869,
+    "after_template_filter": 124837,
+    "after_length_filter": 124221,
+    "after_dedup": 103902,
+    "per_source": {
+      "DUNYA": 42738,
+      "ROTABORSA": 32171,
+      "BORSAGUNDEM": 28993
+    }
+  },
+  "sha256": "3fb46e7b801349062c6107d42a325d9bc35bf39b5cca5916551e53a94d62d2bb"
+}

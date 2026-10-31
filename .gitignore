@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.DS_Store
+*.tmp
+
+# full corpus snapshot: rebuilt by scripts/01_build_snapshot.py, not redistributed
+data/snapshot.csv
+data/sample_random.csv
+
+# course materials, not part of the project
+feedback.txt
+grading_criteria.pdf
+project-topic-compass.pdf
+project_ideas.md

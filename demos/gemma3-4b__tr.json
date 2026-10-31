@@ -1,0 +1,272 @@
+[
+  {
+    "name": "gold-s1",
+    "examples": [
+      {
+        "item": 105,
+        "headline": "Rekabet Kurulu 130,9 milyon liralık para cezası kesti",
+        "answer": "No"
+      },
+      {
+        "item": 875,
+        "headline": "Konkordatoda alarm zilleri: İlk kez ana pazarda işlem gören bir şirket başvurdu",
+        "answer": "Yes"
+      },
+      {
+        "item": 155,
+        "headline": "Erdemir Ereğli Demir Çelik (EREGL) başvurusu ile çelikte damping soruşturması!",
+        "answer": "No"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) dev sözleşmeyi açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "Odaş Elektrik'ten (ODAS) Genel Kurul açıklaması!",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "self-s1",
+    "examples": [
+      {
+        "item": 105,
+        "headline": "Rekabet Kurulu 130,9 milyon liralık para cezası kesti",
+        "answer": "No"
+      },
+      {
+        "item": 875,
+        "headline": "Konkordatoda alarm zilleri: İlk kez ana pazarda işlem gören bir şirket başvurdu",
+        "answer": "Yes"
+      },
+      {
+        "item": 155,
+        "headline": "Erdemir Ereğli Demir Çelik (EREGL) başvurusu ile çelikte damping soruşturması!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) dev sözleşmeyi açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "Odaş Elektrik'ten (ODAS) Genel Kurul açıklaması!",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "random-s1",
+    "examples": [
+      {
+        "item": 105,
+        "headline": "Rekabet Kurulu 130,9 milyon liralık para cezası kesti",
+        "answer": "No"
+      },
+      {
+        "item": 875,
+        "headline": "Konkordatoda alarm zilleri: İlk kez ana pazarda işlem gören bir şirket başvurdu",
+        "answer": "No"
+      },
+      {
+        "item": 155,
+        "headline": "Erdemir Ereğli Demir Çelik (EREGL) başvurusu ile çelikte damping soruşturması!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) dev sözleşmeyi açıkladı!",
+        "answer": "No"
+      },
+      {
+        "item": 883,
+        "headline": "Odaş Elektrik'ten (ODAS) Genel Kurul açıklaması!",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "gold-s2",
+    "examples": [
+      {
+        "item": 597,
+        "headline": "Türk Telekom'dan (TTKOM) Eurobond Geri Alım Teklifi Kararı",
+        "answer": "No"
+      },
+      {
+        "item": 883,
+        "headline": "Odaş Elektrik'ten (ODAS) Genel Kurul açıklaması!",
+        "answer": "No"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) dev satın almayı açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 624,
+        "headline": "SON DAKİKA DEPREM... AFAD duyurdu: Akdeniz'de 4.0 büyüklüğünde deprem (Son depremler)",
+        "answer": "No"
+      },
+      {
+        "item": 875,
+        "headline": "Konkordatoda alarm zilleri: İlk kez ana pazarda işlem gören bir şirket başvurdu",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "self-s2",
+    "examples": [
+      {
+        "item": 597,
+        "headline": "Türk Telekom'dan (TTKOM) Eurobond Geri Alım Teklifi Kararı",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "Odaş Elektrik'ten (ODAS) Genel Kurul açıklaması!",
+        "answer": "No"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) dev satın almayı açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 624,
+        "headline": "SON DAKİKA DEPREM... AFAD duyurdu: Akdeniz'de 4.0 büyüklüğünde deprem (Son depremler)",
+        "answer": "Yes"
+      },
+      {
+        "item": 875,
+        "headline": "Konkordatoda alarm zilleri: İlk kez ana pazarda işlem gören bir şirket başvurdu",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "random-s2",
+    "examples": [
+      {
+        "item": 597,
+        "headline": "Türk Telekom'dan (TTKOM) Eurobond Geri Alım Teklifi Kararı",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "Odaş Elektrik'ten (ODAS) Genel Kurul açıklaması!",
+        "answer": "Yes"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) dev satın almayı açıkladı!",
+        "answer": "No"
+      },
+      {
+        "item": 624,
+        "headline": "SON DAKİKA DEPREM... AFAD duyurdu: Akdeniz'de 4.0 büyüklüğünde deprem (Son depremler)",
+        "answer": "Yes"
+      },
+      {
+        "item": 875,
+        "headline": "Konkordatoda alarm zilleri: İlk kez ana pazarda işlem gören bir şirket başvurdu",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "gold-s3",
+    "examples": [
+      {
+        "item": 880,
+        "headline": "Tüpraş (TUPRS) hisse hedef fiyat 2024! 3 kurum açıkladı!",
+        "answer": "No"
+      },
+      {
+        "item": 863,
+        "headline": "Lider Faktoring (LIDFA) 2024 yılı temettü kararını açıkladı!",
+        "answer": "No"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) dev sözleşmeyi açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) dev satın almayı açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 163,
+        "headline": "Pegasus (PGSUS) hisse senedi fiyatında düzeltme yapılacak!",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "self-s3",
+    "examples": [
+      {
+        "item": 880,
+        "headline": "Tüpraş (TUPRS) hisse hedef fiyat 2024! 3 kurum açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 863,
+        "headline": "Lider Faktoring (LIDFA) 2024 yılı temettü kararını açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) dev sözleşmeyi açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) dev satın almayı açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 163,
+        "headline": "Pegasus (PGSUS) hisse senedi fiyatında düzeltme yapılacak!",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "random-s3",
+    "examples": [
+      {
+        "item": 880,
+        "headline": "Tüpraş (TUPRS) hisse hedef fiyat 2024! 3 kurum açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 863,
+        "headline": "Lider Faktoring (LIDFA) 2024 yılı temettü kararını açıkladı!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) dev sözleşmeyi açıkladı!",
+        "answer": "No"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) dev satın almayı açıkladı!",
+        "answer": "No"
+      },
+      {
+        "item": 163,
+        "headline": "Pegasus (PGSUS) hisse senedi fiyatında düzeltme yapılacak!",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

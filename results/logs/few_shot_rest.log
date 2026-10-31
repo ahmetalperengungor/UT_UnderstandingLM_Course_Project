@@ -1,0 +1,10 @@
+qwen2.5-3b tr gold-s1: 550 items in 132s, mean answer mass 1.00
+qwen2.5-3b tr self-s1: 550 items in 124s, mean answer mass 1.00
+qwen2.5-3b tr random-s1: 550 items in 122s, mean answer mass 1.00
+qwen2.5-3b tr gold-s2: 550 items in 125s, mean answer mass 1.00
+qwen2.5-3b tr self-s2: 550 items in 128s, mean answer mass 1.00
+qwen2.5-3b tr random-s2: 550 items in 136s, mean answer mass 1.00
+qwen2.5-3b tr gold-s3: 550 items in 125s, mean answer mass 1.00
+qwen2.5-3b tr self-s3: 550 items in 124s, mean answer mass 1.00
+qwen2.5-3b tr random-s3: 550 items in 123s, mean answer mass 1.00
+qwen2.5-3b en gold-s1: 550 items in 105s, mean answer mass 1.00

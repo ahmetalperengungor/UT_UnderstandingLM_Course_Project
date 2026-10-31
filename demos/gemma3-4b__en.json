@@ -1,0 +1,272 @@
+[
+  {
+    "name": "gold-s1",
+    "examples": [
+      {
+        "item": 105,
+        "headline": "The Competition Board fined 13.9 million.",
+        "answer": "No"
+      },
+      {
+        "item": 875,
+        "headline": "Alarm bells in the concordat: For the first time, a company traded in the main market applied",
+        "answer": "Yes"
+      },
+      {
+        "item": 155,
+        "headline": "Dumping investigation in steel with Erdemir Ereğli Demir Çelik (EREGL) application!",
+        "answer": "No"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) announces giant contract!",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "General Assembly statement from Odaş Elektrik (ODAS)!",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "self-s1",
+    "examples": [
+      {
+        "item": 105,
+        "headline": "The Competition Board fined 13.9 million.",
+        "answer": "Yes"
+      },
+      {
+        "item": 875,
+        "headline": "Alarm bells in the concordat: For the first time, a company traded in the main market applied",
+        "answer": "No"
+      },
+      {
+        "item": 155,
+        "headline": "Dumping investigation in steel with Erdemir Ereğli Demir Çelik (EREGL) application!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) announces giant contract!",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "General Assembly statement from Odaş Elektrik (ODAS)!",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "random-s1",
+    "examples": [
+      {
+        "item": 105,
+        "headline": "The Competition Board fined 13.9 million.",
+        "answer": "No"
+      },
+      {
+        "item": 875,
+        "headline": "Alarm bells in the concordat: For the first time, a company traded in the main market applied",
+        "answer": "No"
+      },
+      {
+        "item": 155,
+        "headline": "Dumping investigation in steel with Erdemir Ereğli Demir Çelik (EREGL) application!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) announces giant contract!",
+        "answer": "No"
+      },
+      {
+        "item": 883,
+        "headline": "General Assembly statement from Odaş Elektrik (ODAS)!",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "gold-s2",
+    "examples": [
+      {
+        "item": 597,
+        "headline": "Türk Telekom's (TTKOM) Eurobond Retrieval Proposal Decision",
+        "answer": "No"
+      },
+      {
+        "item": 883,
+        "headline": "General Assembly statement from Odaş Elektrik (ODAS)!",
+        "answer": "No"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) announces acquisition of giants!",
+        "answer": "Yes"
+      },
+      {
+        "item": 624,
+        "headline": "FINAL MINUTE DEPREM... AFAD announces: 4.0 magnitude earthquake in the Mediterranean (Recent earthquakes)",
+        "answer": "No"
+      },
+      {
+        "item": 875,
+        "headline": "Alarm bells in the concordat: For the first time, a company traded in the main market applied",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "self-s2",
+    "examples": [
+      {
+        "item": 597,
+        "headline": "Türk Telekom's (TTKOM) Eurobond Retrieval Proposal Decision",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "General Assembly statement from Odaş Elektrik (ODAS)!",
+        "answer": "No"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) announces acquisition of giants!",
+        "answer": "Yes"
+      },
+      {
+        "item": 624,
+        "headline": "FINAL MINUTE DEPREM... AFAD announces: 4.0 magnitude earthquake in the Mediterranean (Recent earthquakes)",
+        "answer": "Yes"
+      },
+      {
+        "item": 875,
+        "headline": "Alarm bells in the concordat: For the first time, a company traded in the main market applied",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "random-s2",
+    "examples": [
+      {
+        "item": 597,
+        "headline": "Türk Telekom's (TTKOM) Eurobond Retrieval Proposal Decision",
+        "answer": "Yes"
+      },
+      {
+        "item": 883,
+        "headline": "General Assembly statement from Odaş Elektrik (ODAS)!",
+        "answer": "Yes"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) announces acquisition of giants!",
+        "answer": "No"
+      },
+      {
+        "item": 624,
+        "headline": "FINAL MINUTE DEPREM... AFAD announces: 4.0 magnitude earthquake in the Mediterranean (Recent earthquakes)",
+        "answer": "Yes"
+      },
+      {
+        "item": 875,
+        "headline": "Alarm bells in the concordat: For the first time, a company traded in the main market applied",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "gold-s3",
+    "examples": [
+      {
+        "item": 880,
+        "headline": "Tüpraş (TUPRS) share target price 2024! 3 institutions announced!",
+        "answer": "No"
+      },
+      {
+        "item": 863,
+        "headline": "Lider Faktoring (LIDFA) announces dividend decision of 2024!",
+        "answer": "No"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) announces giant contract!",
+        "answer": "Yes"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) announces acquisition of giants!",
+        "answer": "Yes"
+      },
+      {
+        "item": 163,
+        "headline": "Pegasus (PGSUS) will be corrected in stock price!",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "name": "self-s3",
+    "examples": [
+      {
+        "item": 880,
+        "headline": "Tüpraş (TUPRS) share target price 2024! 3 institutions announced!",
+        "answer": "Yes"
+      },
+      {
+        "item": 863,
+        "headline": "Lider Faktoring (LIDFA) announces dividend decision of 2024!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) announces giant contract!",
+        "answer": "Yes"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) announces acquisition of giants!",
+        "answer": "Yes"
+      },
+      {
+        "item": 163,
+        "headline": "Pegasus (PGSUS) will be corrected in stock price!",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "random-s3",
+    "examples": [
+      {
+        "item": 880,
+        "headline": "Tüpraş (TUPRS) share target price 2024! 3 institutions announced!",
+        "answer": "Yes"
+      },
+      {
+        "item": 863,
+        "headline": "Lider Faktoring (LIDFA) announces dividend decision of 2024!",
+        "answer": "Yes"
+      },
+      {
+        "item": 136,
+        "headline": "Naturel Gaz (NTGAZ) announces giant contract!",
+        "answer": "No"
+      },
+      {
+        "item": 873,
+        "headline": "Alarko Holding (ALARK) announces acquisition of giants!",
+        "answer": "No"
+      },
+      {
+        "item": 163,
+        "headline": "Pegasus (PGSUS) will be corrected in stock price!",
+        "answer": "Yes"
+      }
+    ]
+  }
+]
